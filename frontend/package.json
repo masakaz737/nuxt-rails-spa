@@ -1,0 +1,17 @@
+{
+  "name": "nuxt-rails-spa",
+  "version": "1.0.0",
+  "description": "nuxt-rails-spa",
+  "author": "masakazu.ishida",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {}
+}
